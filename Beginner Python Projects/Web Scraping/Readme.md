@@ -34,3 +34,6 @@ Make a corona virus data scraper, that scrapes the number of active cases and st
 <br>
 
 **Snapshots**
+
+![](https://github.com/manvi0308/Project-Based-Learning/blob/main/Beginner%20Python%20Projects/Images/Screenshot%20(1240).png)
+Noice the excel file generated in the same directory as of where the project is stores

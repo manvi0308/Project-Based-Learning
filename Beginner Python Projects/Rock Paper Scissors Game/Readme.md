@@ -1,11 +1,14 @@
 <h2 align = "center"> ROCK PAPER SCISSORS GAME</h2>
 
 [![HitCount](http://hits.dwyl.com/manvi0308/100DaysOfAlgo.svg)](http://hits.dwyl.com/manvi0308/Project-Based-Learning)
-
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
+[![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-orange)
+
+[![Languages](https://img.shields.io/badge/Made%20using-Python-red)
+
 <br>
-## Why? 
+<h3>Why?</h3>
 
 ### What is this project all about?  <br>
 *Its a traditional rock paper scissors game, made using simple random module with a speech functionality added using pyttsx3 module.* <br>

@@ -1,10 +1,11 @@
 <h2 align = "center"> ROCK PAPER SCISSORS GAME</h2>
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+[![HitCount](http://hits.dwyl.com/manvi0308/100DaysOfAlgo.svg)](http://hits.dwyl.com/manvi0308/Project-Based-Learning)
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 <br>
-## Why? <br>
-[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-
+## Why? 
 
 ### What is this project all about?  <br>
 *Its a traditional rock paper scissors game, made using simple random module with a speech functionality added using pyttsx3 module.* <br>
